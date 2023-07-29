@@ -18,7 +18,9 @@ When integrated with Flask's WTForms library, the DatalistField can be easily us
 
 ## Installation
 
-`git clone git@github.com:omarelkashef/DatalistField.git`
+```shell
+git clone git@github.com:omarelkashef/DatalistField.git
+```
 
 ## How to Use
 
